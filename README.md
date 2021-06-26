@@ -5,3 +5,4 @@ Soy Eli y quiero contarte que me interesa el desarrollo front-end porque me resu
 - 📫 Cómo contactarme: kerneliana24@gmail.com
 - ✨Cualquier mensaje, comentario o recomendación que creas puede servirme, será bien 🤗 Bienvenida 😉!!!
 - Gracias!!💖
+- 🤓Estoy aprendiendo inglés y busco alguien que quiera practicar conmigo, nivel basico por el momento.
