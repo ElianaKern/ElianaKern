@@ -1,5 +1,5 @@
 Hola!! 🙋🏼‍
-Soy Eli y quiero contarte que me interesa el desarrollo front-end porque me resulta divertido,desafiante, todo un mundo nuevo que voy descubriendo, aprendiendo, empoderandome.Y porque me atrapa y entusiasma la idea de desarrollar en equipo. Idealmente quiero trabajar feliz desde cualquier lugar y manejar mis tiempos.
+Soy Eli y quiero contarte que me interesa el desarrollo front-end porque me resulta desafiante, todo un mundo nuevo que voy descubriendo, aprendiendo, empoderandome, es lo mas parecido a la magia que conozco y eso me divierte. Me entusiasma la idea de desarrollar en equipo, trabajar feliz desde cualquier lugar y manejar mis tiempos.
 - 🌱 Actualmente estoy aprendiendo en Ada ITW.
 - 👯 Estoy buscando colaborar en algun lindo proyecto que pueda serles útil con lo que se hasta el momento(eso lo verán reflejado en mis repositorios) y me sirva de experiencia.
 - 📫 Cómo contactarme: kerneliana24@gmail.com
